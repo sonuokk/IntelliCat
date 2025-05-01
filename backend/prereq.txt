@@ -1,0 +1,12 @@
+1. installing required framework adn libraries
+    bcrypt-used for hashing ( used to encypt password)
+    cloudinary(used to store images and videos on cloud)
+    cookie -parser(Used when generateing a cookie, token)
+    cors(used to connect frontend and backend)
+    dotencv ( used to make enviromental data secret)
+    express( node.js framework)
+    express-fileUpload( USed to upload file)
+    mongoose( Used to store data)
+    node cron (Used for automation and scheduling purpose)
+    nodemail(Used when user forgets the password and want to forget or reset the passwrod) - its limitless
+    
