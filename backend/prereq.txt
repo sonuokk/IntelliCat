@@ -1,4 +1,4 @@
-1. installing required framework adn libraries
+1. installing required framework and libraries
     bcrypt-used for hashing ( used to encypt password)
     cloudinary(used to store images and videos on cloud)
     cookie -parser(Used when generateing a cookie, token)

@@ -3,11 +3,6 @@ import cron from "node-cron";
 import { User } from "../models/user.js";
 import { Borrow } from "../models/borrow.js"
 import { sendEmail } from "../utils/sendEmail.js"
-
-
-
-
-
 export const notifyUsers = () => {
   // cron.schedule("*/30 * * * *", async () => {
   cron.schedule("*/10 * * * * *", async () => {
